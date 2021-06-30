@@ -1,0 +1,11 @@
+# Provider Management
+#### How this system supports the Medicaid Program 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in metus eu nibh dignissim dignissim. Maecenas condimentum libero vulputate est vestibulum feugiat. Mauris mattis mollis eros non commodo. Donec eget dapibus ex, a vehicula lectus. Nullam dapibus pretium purus quis pellentesque. 
+
+---
+### CMS-Required Outcomes
+
+| **Reference Number** | **Outcome** | **Recommended Metrics** | **Relevant&nbsp;Regulatory Sources** | **Recommended Reporting Periodicity** |
+| --- | --- | --- | --- | --- |
+| Ref1 | Curabitur non lectus non eros ornare elementum nec vel ante. | <ul><li>Number of maximus vestibulum semper.</li><li>Percent of venenatis mauris congue arcu imperdiet rutrum.</li></ul> | *link to regulation(s)* | *specific periodicity* |
+| Ref2 | Duis iaculis metus est, vitae fermentum nisl maximus eu. | <ul><li>Number of hendrerit ultricies efficitur.</li><li>Percent of placerat libero a scelerisque hendrerit.</li></ul> | *link to regulation(s)* | *specific periodicity* |
