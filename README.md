@@ -1,3 +1,6 @@
+* auto-gen TOC:
+{:toc}
+
 # What is this CMS Certification Repository?
 The CMS Certification Repository on GitHub will provide a collaborative space where states can learn, share, and contribute information about the MES Certification process and its related artifacts. We created this repository for CMS, states, and vendors to:
 * Access the latest-and-greatest information about CMS-Required outcomes and recommended metrics
