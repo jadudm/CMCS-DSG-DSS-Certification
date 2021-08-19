@@ -1,4 +1,4 @@
-# Claims Processing 
+# Provider Management
 #### How this system supports the Medicaid Program 
 
 [intro text]
